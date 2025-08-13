@@ -1,4 +1,4 @@
-# designer_profissional
+# Calculadora de Orçamento Pessoal
 Projeto para exemplificar o github e git
  # Tecnologias
  React;
